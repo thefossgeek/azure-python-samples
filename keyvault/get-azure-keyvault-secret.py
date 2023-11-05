@@ -12,6 +12,7 @@
 #                   -c <client-id> -s <client-secret> -k <keyvault_name> \
 #                   -n <secret_name> -v <secret_version>
 #
+#
 #===============================================================================
 import os
 import sys
